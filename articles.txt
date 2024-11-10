@@ -1,0 +1,118 @@
+Livre
+Stylo
+Sac
+Chocolat
+T-shirt
+Pantalon
+Tlephone
+Laptop
+Cle USB
+Bracelet
+Robe
+Pizza
+Eau
+Casque
+Souris
+Chaussettes
+Montre
+Creme
+Velo
+Cadenas
+Pates
+Riz
+Pain de mie
+Lait
+Beurre
+�ufs
+Farine
+Sucre
+Huile d'olive
+Sel
+Poivre
+Cereales
+Biscuits
+Jus d'orange
+Fromage rape
+Yaourts
+Pommes
+Bananes
+Oranges
+Tomates
+Salade verte
+Carottes
+Pommes de terre
+Courgettes
+Oignons
+Ail
+Champignons
+Poivrons
+Poulet
+Jambon
+Steak hache
+Poisson surgele
+Thon en boite
+Saucisses
+Boite de haricots verts
+Pois chiches en conserve
+Lentilles
+Sauce tomate
+Pesto
+Chips
+Chocolat
+Confiture
+Miel
+Moutarde
+Mayonnaise
+Ketchup
+Sauce soja
+Bouillon cube
+Vin rouge
+Biere
+Eau minerale
+Lait de soja
+Lait d�amande
+Cafe
+The
+Lardons
+Mozzarella
+Parmesan
+Bacon
+Beurre
+Cornichons
+Taboule
+Couscous
+Raviolis
+Quinoa
+Saucisson
+Gnocchis
+Houmous
+Pain
+Brioche
+Croissants
+Pate
+Jus
+Lait
+Creme
+Glace
+Yaourt
+Gateau
+Epices
+Batonnets
+Pizza
+Lasagnes
+Nuggets
+Frites
+Tortillas
+Wraps
+Chou-fleur
+Brocoli
+carotte
+Haricots
+Chips
+Soupe
+Nouilles
+Croquettes
+Litiere
+Dentifrice
+Shampoing
+Lessive
